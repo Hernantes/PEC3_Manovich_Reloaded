@@ -1,5 +1,6 @@
 #  PEC3: Visionando el futuro con las gafas de Manovich
 Autor: Sara Hernantes López
+
 Fecha: 18/12/23
 
 ![Manovich](http://manovich.net/content/01-about/dsc_1880_-edit-square_max.jpg) 
