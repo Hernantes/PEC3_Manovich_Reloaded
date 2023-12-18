@@ -5,7 +5,7 @@ Fecha: 18/12/23
 
 ![Manovich](https://i.pinimg.com/564x/c8/dc/43/c8dc4384fc2e61acd39b0060d87a9b5b.jpg) 
 
-En esta Pec analizaremos dos casos de **hibridación** desde el punto de vista de **Lev Manovich**, para ello comenzaremos haciendo una breve introducción del autor y su punto de vista sobre la hibridación, para después analizar los dos casos escogidos, **Merge Cube** y **Gravity Sketch**. 
+En esta Pec analizaremos dos casos de **hibridación** desde el punto de vista de Lev Manovich, para ello comenzaremos haciendo una breve introducción del autor y su punto de vista sobre la hibridación, para después analizar los dos casos escogidos, **Merge Cube y Gravity Sketch**. 
 
 
 # Lev Manovich
