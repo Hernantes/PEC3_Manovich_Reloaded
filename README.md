@@ -88,7 +88,9 @@ A continuación analizaremos varias herramientas que ofrece GRAVITY SKETCH y com
 ## Conclusiones. 
 
 Tras leer la documentancion de Manovich _El software toma el mando_ he podido organizar ideas que durante muchos años tenía confusas, sacar conclusiones acerca de lo que es un hibrido y de lo que es multimedia, además el hecho de poder "ver" una clara evolución ( de manera ordenada) entre los diferentes medios, ha sido muy gratificante. 
+
 Tras la lectura, el análisis de los dos hibridos me ha parecido interesantisimo, cómo la tecnología está revolucionando el presente si hablamos de educación con **Merge Cube**, las herramientas que ofrece me parecen una autentica revolución a nivel pedagogico,  como profesional del diseño **Gravity Sketch**, abre para mí multiples posibilidades y una sensación de nuevo comienzo. Sus herramientas estan completamente adaptadas al usuario, para que se pueda tener una verdadera experiencia inmersiva, agilizando procesos, incluso llegando a contaminar menos. 
+
 Realizar el ensayo con **Github, mediante StackEdit y el uso del lenguaje Markdown** , ha sido todo un desafío para mi, pero me han parecido muy utilies de cara a futuro. 
 
 ## Referencias y Bibliografía. 
