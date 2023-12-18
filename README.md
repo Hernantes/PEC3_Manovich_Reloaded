@@ -68,7 +68,7 @@ A continuación vamos a analizar algunas herramientas que ofrece MERGE CUBE que 
 **Multidispositivo**: Su experiencia puede realizarse a través del cubo, del visor , de la plataforma en tablet o desde el sketchbook.
 
 ## Caso de estudio 2:  Gravity Sketch
-![Gravity Sketch](https://www.gravitysketch.com/wp-content/uploads/2023/08/unlock-new-levels-of-creativity.mp4)
+![Gravity Sketch](https://cdn.cloudflare.steamstatic.com/steam/apps/551370/header.jpg?t=1662484607)
 
 Se trata de un software de diseño 3D con un centro de diseño basado en la nube que permite almacenar el contenido y realizar trabajo colaborativo. Se considera un medio híbrido porque cumple con la **estrategia de combinación de varias técnicas de interface** y **nuevas técnicas de representar el mundo** . Permite además una experiencia de diseño colaborativa y remota, experiencia muy diferente a la actual realidad de muchos diseñadores de producto.
 
