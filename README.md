@@ -26,7 +26,7 @@ Según Manovich podemos detectar varias estrategias de hibridación.
 Una de las estrategias sería la **combinación de varias técnicas de interface** o la **combinación de distintos tipos de medios.** 
 Otra forma de categorizar los hibridos de medios es valorando si un hibrido concreto ofrece **nuevas formas de representar el mundo** y navegar por esas representaciones o, si ofrece **nuevas maneras de navegar e interaccionar con medios ya exixtentes.** Un hibrido puede combinar tambien varias estrategias . 
 
->El software toma el mando. Manovich
+
 
 _"Los híbridos pueden combinar y reconfigurar formatos de medios conocidos e interfaces de medios para ofrecer nuevos tipos de representación híbridas."**(Manovich,2013)**_
 
