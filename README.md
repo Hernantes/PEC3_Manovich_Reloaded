@@ -3,7 +3,7 @@ Autor: Sara Hernantes López
 
 Fecha: 18/12/23
 
-![Manovich](http://manovich.net/content/01-about/dsc_1880_-edit-square_max.jpg) 
+![Manovich](https://es.wikipedia.org/wiki/Lev_Manovich#/media/Archivo:Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg) 
 
 En esta Pec analizaremos dos casos de **hibridación** desde el punto de vista de **Lev Manovich**, para ello comenzaremos haciendo una breve introducción del autor y su punto de vista sobre la hibridación, para después analizar los dos casos escogidos, **Merge Cube** y **Gravity Sketch**. 
 
@@ -15,10 +15,10 @@ Su papel ha sido fundamental en la creación de cuatro nuevos campos de investig
 ## Diferencia entre Hibridez y Multimedia
 
 La principal diferencia entre Hibridez y Multimedia según Manovich es que la multimedia es el termino utilizado cuando conviven distintos tipos de medios, situados por norma general en un espacio bidimensional, todos ellos de manera autónoma, en cambio la hibridez es cuando de la mezcla y evolución de estos medios surge un nuevo elemento único que cambia la forma en la que el usuario se relaciona con el medio. 
->El software toma el mando. Manovich
+
 
 _A mi juicio, la hibridez de los medios es una reconfiguración más fundamental del universo de los medios que la multimedia. En ambos casos vemos una «confluencia» de distintos tipos de medios. Ahora bien, la multimedia no amenaza la autonomía de los medios individuales. Conservan su propio lenguaje, es decir, sus formas de organizar, acceder y modificar sus datos_ 
-_Por contra, en los medios híbridos confluyen lenguajes previos y diferenciados. Intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos._
+_Por contra, en los medios híbridos confluyen lenguajes previos y diferenciados. Intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos.**(Manovich,2013)**_
 
 ## Estrategias de Hibridación 
 
@@ -26,9 +26,9 @@ Según Manovich podemos detectar varias estrategias de hibridación.
 Una de las estrategias sería la **combinación de varias técnicas de interface** o la **combinación de distintos tipos de medios.** 
 Otra forma de categorizar los hibridos de medios es valorando si un hibrido concreto ofrece **nuevas formas de representar el mundo** y navegar por esas representaciones o, si ofrece **nuevas maneras de navegar e interaccionar con medios ya exixtentes.** Un hibrido puede combinar tambien varias estrategias . 
 
->El software toma el mando. Manovich
 
-_"Los híbridos pueden combinar y reconfigurar formatos de medios conocidos e interfaces de medios para ofrecer nuevos tipos de representación híbridas."_
+
+_"Los híbridos pueden combinar y reconfigurar formatos de medios conocidos e interfaces de medios para ofrecer nuevos tipos de representación híbridas."**(Manovich,2013)**_
 
 ## Conclusiones sobre el concepto de Hibridación
 
@@ -40,7 +40,7 @@ Tras analizar el contenido de Manovich, se concluyen las siguientes característ
 * **La interactividad**, la capacidad de elegir diferentes caminos dentro de una misma experiencia. De crear o modificar el contenido. Además de poder personalizar el contenido /software. 
 
 ## Caso de estudio 1 : Merge Cube
-![Merge Cube](https://mergeedu.com/assets/images/hold-anything.mp4)
+![Merge Cube]([https://mergeedu.com/assets/images/hold-anything.mp4](https://m.media-amazon.com/images/I/71QOBRGbw4L._AC_SX522_.jpg))
 
 Es una plataforma privada que ofrece contenido educativo STEM, es un ejemplo de estrategia de hibridación por **combinación de distintos tipos de medios**. Y porque ofrece una nueva manera de **interactuar con medios ya existentes** como algunas plataformas de aprendizaje. Su contenido se apoya en el uso de **dos elementos** clave, para ofrecer al usuario una experiencia inmersiva y única :
 
@@ -68,7 +68,7 @@ A continuación vamos a analizar algunas herramientas que ofrece MERGE CUBE que 
 **Multidispositivo**: Su experiencia puede realizarse a través del cubo, del visor , de la plataforma en tablet o desde el sketchbook.
 
 ## Caso de estudio 2:  Gravity Sketch
-![Gravity Sketch](https://www.gravitysketch.com/wp-content/uploads/2023/08/unlock-new-levels-of-creativity.mp4)
+![Gravity Sketch](https://cdn.cloudflare.steamstatic.com/steam/apps/551370/header.jpg?t=1662484607)
 
 Se trata de un software de diseño 3D con un centro de diseño basado en la nube que permite almacenar el contenido y realizar trabajo colaborativo. Se considera un medio híbrido porque cumple con la **estrategia de combinación de varias técnicas de interface** y **nuevas técnicas de representar el mundo** . Permite además una experiencia de diseño colaborativa y remota, experiencia muy diferente a la actual realidad de muchos diseñadores de producto.
 
