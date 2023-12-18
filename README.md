@@ -40,7 +40,7 @@ Tras analizar el contenido de Manovich, se concluyen las siguientes característ
 * **La interactividad**, la capacidad de elegir diferentes caminos dentro de una misma experiencia. De crear o modificar el contenido. Además de poder personalizar el contenido /software. 
 
 ## Caso de estudio 1 : Merge Cube
-![Merge Cube](https://i.pinimg.com/564x/72/04/22/7204220be2fb544820fcdacae5d2b136.jpg)
+![Merge Cube](https://i.pinimg.com/564x/4e/47/0c/4e470ca75a5a5ff7e6f765a0523a559b.jpg)
 
 Es una plataforma privada que ofrece contenido educativo STEM, es un ejemplo de estrategia de hibridación por **combinación de distintos tipos de medios**. Y porque ofrece una nueva manera de **interactuar con medios ya existentes** como algunas plataformas de aprendizaje. Su contenido se apoya en el uso de **dos elementos** clave, para ofrecer al usuario una experiencia inmersiva y única :
 
